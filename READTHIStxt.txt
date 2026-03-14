@@ -1,0 +1,3 @@
+How to use?
+
+MOVE gccpath.bat to this patch C:\gcc\bin (is the patch of your gcc)
